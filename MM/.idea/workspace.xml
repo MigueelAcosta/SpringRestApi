@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="956fe519-546a-49e8-aa9c-f2df0cc0ecd1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aHn1LpShtMB4h7ty60FGWTF9bJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="MM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aplicacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="aplicacion.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="956fe519-546a-49e8-aa9c-f2df0cc0ecd1" name="Default Changelist" comment="" />
+      <created>1586401170996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586401170996</updated>
+      <workItem from="1586401173835" duration="4112000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="313" y="127" key="#Project_Structure" timestamp="1586401340970">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="313" y="127" key="#Project_Structure/0.0.1440.929@0.0.1440.929" timestamp="1586401340970" />
+    <state x="451" y="223" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1586403862446">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="451" y="223" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1440.929@0.0.1440.929" timestamp="1586403862446" />
+    <state x="386" y="395" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586401347089">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="386" y="395" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.929@0.0.1440.929" timestamp="1586401347089" />
+    <state width="1397" height="245" key="GridCell.Tab.0.bottom" timestamp="1586405291010">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state width="1397" height="245" key="GridCell.Tab.0.bottom/0.0.1440.929@0.0.1440.929" timestamp="1586405291010" />
+    <state width="1397" height="245" key="GridCell.Tab.0.center" timestamp="1586405291010">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state width="1397" height="245" key="GridCell.Tab.0.center/0.0.1440.929@0.0.1440.929" timestamp="1586405291010" />
+    <state width="1397" height="245" key="GridCell.Tab.0.left" timestamp="1586405291010">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state width="1397" height="245" key="GridCell.Tab.0.left/0.0.1440.929@0.0.1440.929" timestamp="1586405291010" />
+    <state width="1397" height="245" key="GridCell.Tab.0.right" timestamp="1586405291010">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state width="1397" height="245" key="GridCell.Tab.0.right/0.0.1440.929@0.0.1440.929" timestamp="1586405291010" />
+    <state width="1397" height="245" key="GridCell.Tab.1.bottom" timestamp="1586405291010">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state width="1397" height="245" key="GridCell.Tab.1.bottom/0.0.1440.929@0.0.1440.929" timestamp="1586405291010" />
+    <state width="1397" height="245" key="GridCell.Tab.1.center" timestamp="1586405291010">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state width="1397" height="245" key="GridCell.Tab.1.center/0.0.1440.929@0.0.1440.929" timestamp="1586405291010" />
+    <state width="1397" height="245" key="GridCell.Tab.1.left" timestamp="1586405291010">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state width="1397" height="245" key="GridCell.Tab.1.left/0.0.1440.929@0.0.1440.929" timestamp="1586405291010" />
+    <state width="1397" height="245" key="GridCell.Tab.1.right" timestamp="1586405291010">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state width="1397" height="245" key="GridCell.Tab.1.right/0.0.1440.929@0.0.1440.929" timestamp="1586405291010" />
+  </component>
+</project>
